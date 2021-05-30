@@ -43,6 +43,7 @@ namespace Kalkulator
                     break;
             }
             Console.Write("Pritisnite bilo koju tipku za nastavak.");
+            Console.Write("Hvala!");
             Console.ReadKey();
         }
     }
