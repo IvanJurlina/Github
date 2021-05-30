@@ -11,6 +11,7 @@ namespace Kalkulator
 
 
             Console.WriteLine("Napišite broj i pritisnite ENTER");
+            Console.WriteLine("Program će vam automatski izračunati zadatak");
             num1 = Convert.ToInt32(Console.ReadLine());
 
 
